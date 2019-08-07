@@ -29,8 +29,7 @@ app.js
 #print screen
 
   **`Demo`** 
- <iframe src="https://giphy.com/embed/gHu8u7FYIGLMqWWgzG" width="462" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gHu8u7FYIGLMqWWgzG">via GIPHY</a></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><b
+ ![custom-timer](https://user-images.githubusercontent.com/18241226/62639179-e30a8200-b936-11e9-8b24-a67c456934e2.gif)
 
 
 

@@ -87,13 +87,13 @@ margin-right: .25rem
 
 
 .buttons .btn.start{
-background-color:#1ccab3;
+background-color:#1ca0ca;
 }
 .buttons .btn.stop{
     background-color: #ea1414;
 }
 .buttons .btn.stop.inactive{
-    background-color: rgba(234, 20, 20, .5);
+    background-color: rgba(114, 89, 89, 0.5);
     color:rgba(234, 20, 20, .4);
 }
 
@@ -104,7 +104,7 @@ background-color:  #fff;
 }
 
 .buttons .btn.reset{
-    background-color:  #1ca0ca;
+    background-color:  #1ccab3;
 }
 
 @media only screen and (max-width: 650px) {
