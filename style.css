@@ -1,0 +1,116 @@
+*{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+}
+
+html, body{
+    padding:0;
+    margin:0;
+    box-sizing: border-box;
+    background-color: #f0db4f;
+    text-align: center;
+}
+button{
+    cursor: pointer;
+}
+
+button:focus{
+    outline: none;
+}
+
+h1{
+    text-transform: uppercase;
+}
+span{
+    color: rgba(50, 51, 48, .5);
+}
+
+/* all components flex position */
+.app,
+.timer,
+.buttons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+/*  all components flex position*/
+
+/*  MAIN CONTAINER */
+ 
+.app{
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+  
+    justify-content: space-around;
+    flex-direction: column;
+    height: 100vh
+}
+
+/* TIMER */
+.timer{
+width: 70%;
+height: 350px;
+
+padding:0 1rem;
+border-radius: 1rem;
+color: #000;
+text-align: center;
+font-size: 5rem;
+}
+
+/* BUTTONS */
+.buttons{
+    width: 350px;
+    text-align: center;
+    justify-content: space-between; 
+}
+
+.buttons .btn{
+    flex: 1;
+    padding: .5rem 0;
+    border: none;
+    border-radius: 5px;
+    color:  rgb(50, 51, 48);
+    font-size: 1.25rem;
+    text-transform: uppercase;
+}
+
+
+.buttons .btn.start,
+.buttons .btn.stop{
+margin-right: .25rem
+}
+
+
+.buttons .btn.start{
+background-color:#1ccab3;
+}
+.buttons .btn.stop{
+    background-color: #ea1414;
+}
+.buttons .btn.stop.inactive{
+    background-color: rgba(234, 20, 20, .5);
+    color:rgba(234, 20, 20, .4);
+}
+
+
+.buttons .btn.reset:disabled{
+color:  #dcdada;
+background-color:  #fff;
+}
+
+.buttons .btn.reset{
+    background-color:  #1ca0ca;
+}
+
+@media only screen and (max-width: 650px) {
+   
+
+    .timer{
+        width: 100%;
+        }
+  }
