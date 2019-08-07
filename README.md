@@ -28,8 +28,8 @@ app.js
 <!-- AUTO-GENERATED-CONTENT:END -->
 #print screen
 
-1.  **`Demo`** 
-<img align="left" src="https://media.giphy.com/media/gHu8u7" alt="demo custom timer" title="demo custom timer"/>
+  **`Demo`** 
+ <iframe src="https://giphy.com/embed/gHu8u7FYIGLMqWWgzG" width="462" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/gHu8u7FYIGLMqWWgzG">via GIPHY</a></p>
 <br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><b
 
 
