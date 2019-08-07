@@ -28,8 +28,10 @@ app.js
 <!-- AUTO-GENERATED-CONTENT:END -->
 #print screen
 
-  **`Demo`** 
- ![custom-timer](https://user-images.githubusercontent.com/18241226/62639179-e30a8200-b936-11e9-8b24-a67c456934e2.gif)
+**`Demo`** 
+
+
+ ![custom-timer](https://user-images.githubusercontent.com/18241226/62640107-be170e80-b938-11e9-91e7-a8e4a180a474.gif)
 
 
 
